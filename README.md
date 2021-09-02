@@ -6,6 +6,7 @@
 
 - [x] HTML5
 - [x] CSS3
+- [x] Bootstrap
 - [x] Vanilla-JavaScript
 
 ## Vista previa del la web
